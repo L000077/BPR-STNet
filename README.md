@@ -20,7 +20,7 @@ The following setup has been used to reproduce this work:
 
 - Windows 10 1903 x64
 - CUDA toolkit 10.0 and CuDNN v7.6.4
-- Python 3.7
+- Python 3.6
 - Pytorch-gpu(1.6.0)
 - matplotlib (1.5.3)
 - scikit-learn (0.23.2)
