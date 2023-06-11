@@ -3,7 +3,7 @@ import torch
 from sklearn.metrics import accuracy_score
 from torch import nn, optim
 from BPR-STNet import net
-from Utli import init_weights, Compute_TP_TN_FP_FN, GetData
+from Util import init_weights, Compute_TP_TN_FP_FN, GetData
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
