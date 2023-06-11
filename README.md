@@ -4,11 +4,15 @@ BPR-STNet paper:
 ## Code
 This repository contains sample code to implement BPR-STNet.  
 
-MainFunction.py: it contains the code to train the model on the Sleep-EDFx dataset.
+BPR-STNet.py: it contains the code to train the model on the homemade dataset.
 
-MainFunctionTest.py: it provides the code to test the trained model. third file.
+LeaveOneOut_acc.py: it provides the leave-one-out cross-validation method to train BPT-STNet.
 
-Untils.py: it provides code to process .edf file data.
+Util.py: it provides util to LeaveOneOut_acc.
+
+Grad-CAM.py: it provides the interpretation method.
+
+utils.py: it provides the util about Grad-CAM.
 
 ## Environment
 
