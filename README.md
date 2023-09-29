@@ -30,6 +30,14 @@ The following setup has been used to reproduce this work:
 # Citation
 
 If you find this useful, please cite our work as follows:
+@article{lin2023eeg,
+  title={An EEG-based cross-subject interpretable CNN for game player expertise level classification},
+  author={Lin, Liqi and Li, Pengrui and Wang, Qinghua and Bai, Binnan and Cui, Ruifang and Yu, Zhenxia and Gao, Dongrui and Zhang, Yongqing},
+  journal={Expert Systems with Applications},
+  pages={121658},
+  year={2023},
+  publisher={Elsevier}
+}
 
 # Licence
 
